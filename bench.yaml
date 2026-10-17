@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/ernestomgz/ernest-tiny-tapeout
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_wokwi_465737601403996161
+  project: Tiny Number Simon
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: 7ba81008f787e2bf125bb1747498768b54e99f0c
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_wokwi_465737601403996161
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465737601403996161
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:34:12Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465737601403996161
+- upstream/main
